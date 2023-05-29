@@ -1,0 +1,86 @@
+﻿*{
+    user-select: none;
+}
+.tittle{
+    width: 100%;
+    height: 100px;
+    font-size: 40px;
+    color: #6cc1f7;
+    text-align: center;
+    line-height: 100px;
+    cursor: default;
+    transition: all 0.2s; /*过度动画*/
+}
+.a{
+    width: 100%;
+    height: auto;
+}
+.a .a1{
+    width: 48%;
+    height: 100px;
+    background-color: #6cc1f7;
+    float: left;
+    text-align: center;
+    font-size: 30px;
+    line-height: 100px;
+    margin-top: 20px;
+    cursor:pointer; /*鼠标样式*/
+    transition: all 0.6s; /*过度动画*/
+}
+.a .a2{
+    width: 48%;
+    height: 100px;
+    background-color: #6cc1f7;
+    float: right;
+    text-align: center;
+    font-size: 30px;
+    line-height: 100px;
+    margin-top: 20px;
+    cursor:pointer;
+    transition: all 0.6s;
+}
+.a .a1:hover,.a .a2:hover{
+    transition: all 0.6s;
+	background-color: #22a3ff;
+    font-size: 35px;
+}
+.foot{
+    width: 100%;
+    height: 100%;
+    float: left;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 40px;
+    color: #ff0000;
+    cursor:pointer;
+    transition: all 0.6s;
+}
+.foot:hover{
+    font-size: 60px;
+    transition: all 0.6s;
+}
+.email{
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    right: 25px;
+    bottom: 40px;
+}
+.email img{
+    max-width: 100%;
+    max-height: 100%;
+    cursor:pointer;
+    transition: all 0.6s;
+}
+.email img:hover{
+    max-width: 125%;
+    max-height: 125%;
+    cursor:pointer;
+    transition: all 0.6s;
+}
+.music1{
+    width: 100%;
+    position: fixed;
+    left: 25px;
+    bottom: 40px;
+}
