@@ -1,5 +1,5 @@
 function menu_index(){
-    window.location.reload(); //点击首页刷新
+    window.location.reload(); //点击刷新
 }
 function menu_website(){
     window.open("./html/404.html",'_blank'); //点击网站打开新窗口
@@ -9,4 +9,10 @@ function menu_status(){
 }
 function menu_about(){
     window.open("./html/404.html",'_blank'); //点击网站打开新窗口
+}
+function jtym(){
+    window.location.reload(); //点击刷新
+}
+function dtym(){
+    window.open("http://yuxianzi666.great-site.net"); //点击网站打开新窗口
 }
