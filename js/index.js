@@ -16,3 +16,6 @@ function jtym(){
 function dtym(){
     window.open("http://yuxianzi666.great-site.net"); //点击网站打开新窗口
 }
+function menu_yongbushilian(){
+    window.open("https://sway.cloud.microsoft/QKCCCUxk0nfjqAQR"); //点击网站打开新窗口
+}
