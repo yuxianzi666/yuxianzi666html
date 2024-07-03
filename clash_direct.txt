@@ -6,7 +6,7 @@ cdn.akamai.steamstatic.com
 shared.steamstatic.com
 community.akamai.steamstatic.com
 *.steamserver.net
-community.akamai.steamstatic.com
 steamcommunity.com
 shared.akamai.steamstatic.com
 avatars.akamai.steamstatic.com
+api.steampowered.com
