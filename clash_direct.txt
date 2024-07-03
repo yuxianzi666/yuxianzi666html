@@ -2,3 +2,6 @@
 *.steamcontent.com
 cdn.steamstatic.com
 community.steamstatic.com
+cdn.akamai.steamstatic.com
+community.akamai.steamstatic
+shared.steamstatic.com
