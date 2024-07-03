@@ -1,2 +1,3 @@
 yuxianzi666.xyz
 *.yuxianzi666.xyz
+*.huya.com
