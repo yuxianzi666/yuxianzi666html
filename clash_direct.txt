@@ -1,1 +1,4 @@
 *.huya.com
+*.steamcontent.com
+cdn.steamstatic.com
+community.steamstatic.com
