@@ -3,5 +3,10 @@
 cdn.steamstatic.com
 community.steamstatic.com
 cdn.akamai.steamstatic.com
-community.akamai.steamstatic
 shared.steamstatic.com
+community.akamai.steamstatic.com
+*.steamserver.net
+community.akamai.steamstatic.com
+steamcommunity.com
+shared.akamai.steamstatic.com
+avatars.akamai.steamstatic.com
