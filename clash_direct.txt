@@ -10,3 +10,4 @@ cdn.akamai.steamstatic.com
 shared.akamai.steamstatic.com
 avatars.akamai.steamstatic.com
 community.akamai.steamstatic.com
+*.bugutv.org
