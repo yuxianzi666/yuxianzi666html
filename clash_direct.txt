@@ -11,3 +11,5 @@ shared.akamai.steamstatic.com
 avatars.akamai.steamstatic.com
 community.akamai.steamstatic.com
 *.bugutv.org
+*.fomecard.com
+fomecard.com
