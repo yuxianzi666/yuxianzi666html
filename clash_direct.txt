@@ -1,4 +1,5 @@
 *.huya.com
+*.*.huya.com
 *.steamcontent.com
 *.steamserver.net
 steamcommunity.com
