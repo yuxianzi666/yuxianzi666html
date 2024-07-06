@@ -7,8 +7,8 @@
 ##- DST-PORT,80,DIRECT 匹配数据目标端口(直连)
 ##- SRC-PORT,7777,DIRECT 匹配数据源端口(直连)
 
-##*.huya.com
-##*.steamcontent.com
+- DOMAIN-SUFFIX,*.huya.com,DIRECT
+ - DOMAIN,*.steamcontent.com,DIRECT
 ##*.steamserver.net
 ##steamcommunity.com
 ##cdn.steamstatic.com
