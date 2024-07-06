@@ -9,7 +9,7 @@
 
 - DOMAIN-SUFFIX,*.huya.com,DIRECT
  - DOMAIN,*.steamcontent.com,DIRECT
-##*.steamserver.net
+  - DOMAIN,*.steamserver.net,DIRECT
 ##steamcommunity.com
 ##cdn.steamstatic.com
 ##api.steampowered.com
