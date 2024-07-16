@@ -14,3 +14,4 @@ community.akamai.steamstatic.com
 *.bugutv.org
 *.fomecard.com
 fomecard.com
+international-gfe.download.nvidia.com
