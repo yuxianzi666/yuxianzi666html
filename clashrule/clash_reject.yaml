@@ -1,0 +1,10 @@
+#!!!!! select classical and yaml !!!!!
+
+#DOMAIN : match complete
+
+#DOMAIN-SUFFIX : match the last
+
+#DOMAIN-KEYWORD match the keyword
+
+payload:
+#- DOMAIN-SUFFIX,test.com
