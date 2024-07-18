@@ -7,6 +7,7 @@
 #DOMAIN-KEYWORD match the keyword
 
 payload:
+#- DOMAIN-SUFFIX,test.com
 - DOMAIN-SUFFIX,huya.com
 - DOMAIN-SUFFIX,steamcontent.com
 - DOMAIN-SUFFIX,steamserver.net
