@@ -1,16 +1,10 @@
 #!!!!! select classical and yaml !!!!!
 
-#DOMAIN 域名
-#DOMAIN,www.google.com,policy 将 www.google.com 路由到 policy.
+#DOMAIN 完全匹配
 
-#DOMAIN-SUFFIX 域名后缀
-#DOMAIN-SUFFIX,youtube.com,policy 将任何以 youtube.com 结尾的域名路由到 policy.
-#在这种情况下, www.youtube.com 和 foo.bar.youtube.com 都将路由到 policy.
+#DOMAIN-SUFFIX 匹配后缀
 
-#DOMAIN-KEYWORD 域名关键字
-#DOMAIN-KEYWORD,google,policy 将任何包含 google 关键字的域名路由到 policy.
-#在这种情况下, www.google.com 或 googleapis.com 都将路由到 policy.
-
+#DOMAIN-KEYWORD 匹配关键字
 
 payload:
 - DOMAIN-SUFFIX,huya.com
