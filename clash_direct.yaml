@@ -1,3 +1,5 @@
+#select classical!!!!!!!!
+
 #DOMAIN 域名
 #DOMAIN,www.google.com,policy 将 www.google.com 路由到 policy.
 
@@ -10,16 +12,16 @@
 #在这种情况下, www.google.com 或 googleapis.com 都将路由到 policy.
 
 
-
-DOMAIN-SUFFIX,huya.com
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamserver.net
-DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,bugutv.org
-DOMAIN-SUFFIX,fomecard.com
-DOMAIN-SUFFIX,download.nvidia.com
+payload:
+- DOMAIN-SUFFIX,huya.com
+- DOMAIN-SUFFIX,steamcontent.com
+- DOMAIN-SUFFIX,steamserver.net
+- DOMAIN-SUFFIX,steamcommunity.com
+- DOMAIN-SUFFIX,steamstatic.com
+- DOMAIN-SUFFIX,steampowered.com
+- DOMAIN-SUFFIX,bugutv.org
+- DOMAIN-SUFFIX,fomecard.com
+- DOMAIN-SUFFIX,download.nvidia.com
 
 
 
