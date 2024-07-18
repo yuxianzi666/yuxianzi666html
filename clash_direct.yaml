@@ -1,10 +1,10 @@
 #!!!!! select classical and yaml !!!!!
 
-#DOMAIN 完全匹配
+#DOMAIN : match complete
 
-#DOMAIN-SUFFIX 匹配后缀
+#DOMAIN-SUFFIX : match the last
 
-#DOMAIN-KEYWORD 匹配关键字
+#DOMAIN-KEYWORD match the keyword
 
 payload:
 - DOMAIN-SUFFIX,huya.com
