@@ -10,7 +10,7 @@
 #在这种情况下, www.google.com 或 googleapis.com 都将路由到 policy.
 
 
-#rules:
+rules:
 - 'DOMAIN-SUFFIX,huya.com'
 - 'DOMAIN-SUFFIX,steamcontent.com'
 - 'DOMAIN-SUFFIX,steamserver.net'
