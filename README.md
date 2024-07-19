@@ -6,11 +6,11 @@
 
 openclash自定义规则集附加地址：
 
-reject：https://github.yuxianzi666.xyz/clashrule/clash_reject.yaml
+    reject：https://github.yuxianzi666.xyz/clashrule/clash_reject.yaml
 
-direct：https://github.yuxianzi666.xyz/clashrule/clash_direct.yaml
+    direct：https://github.yuxianzi666.xyz/clashrule/clash_direct.yaml
 
-proxy：https://github.yuxianzi666.xyz/clashrule/clash_proxy.yaml
+    proxy：https://github.yuxianzi666.xyz/clashrule/clash_proxy.yaml
 
 |选项名|应选择的选项|
 | ------- | -------- |
