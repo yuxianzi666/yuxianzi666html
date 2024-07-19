@@ -11,22 +11,23 @@
 </head>
 
 <body>
-    <div class="menu">
-        <ul>
-            <li><a href="#" onclick="menu_index()">首页</a></li>
-            <li><a href="#" onclick="menu_website()">网站</a></li>
-            <li><a href="#" onclick="menu_status()">网站运行状态</a></li>
-            <li><a href="#" onclick="menu_about()">关于</a></li>
-            <li><a href="#" onclick="menu_yongbushilian()">永不失联</a></li>
-        </ul>
-    </div>
-    <div class="jtym" onclick="jtym()">
-        静态页面
-    </div>
-    <div class="dtym" onclick="dtym()">
-        动态页面
-    </div>
+    <nav>
+        <div class="logo">yuxianzi666</div>
+        <div class="menu" id="menu">
+            <a href="#" onclick="menu_index()">首页</a>
+            <a href="#" onclick="menu_status()">网站运行状态</a>
+            <a href="#" onclick="menu_about()">关于</a>
+            <a href="#" onclick="menu_yongbushilian()">永不失联</a>
+        </div>
+        <div class="hamburger" id="hamburger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </nav>
+
 </body>
 </html>
+<script type="text/javascript" src="./js/menu.js"></script>
 <script type="text/javascript" src="./js/config.js"></script>
 <script type="text/javascript" src="./js/index.js"></script>
