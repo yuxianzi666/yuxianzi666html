@@ -8,3 +8,4 @@
 
 payload:
 #- DOMAIN-SUFFIX,test.com
+- DOMAIN-KEYWORD,spotify
