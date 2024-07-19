@@ -4,13 +4,15 @@
 
 网站备用主页2：https://yuxianzi666.github.io/yuxianzi666html
 
-openclash自定义规则集附加地址：
+<details>
+<summary>openclash自定义规则集附加地址：</summary>
 
-    reject：https://github.yuxianzi666.xyz/clashrule/clash_reject.yaml
+reject：https://github.yuxianzi666.xyz/clashrule/clash_reject.yaml
 
-    direct：https://github.yuxianzi666.xyz/clashrule/clash_direct.yaml
+direct：https://github.yuxianzi666.xyz/clashrule/clash_direct.yaml
 
-    proxy：https://github.yuxianzi666.xyz/clashrule/clash_proxy.yaml
+proxy：https://github.yuxianzi666.xyz/clashrule/clash_proxy.yaml
+</details>
 
 |选项名|应选择的选项|
 | ------- | -------- |
