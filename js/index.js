@@ -5,7 +5,7 @@ function menu_status(){
     window.open("https://stats.uptimerobot.com/Qrv7OhBEBZ",'_blank'); //点击网站运行状态打开新窗口
 }
 function menu_about(){
-    window.open("./html/404.html",'_blank'); //点击网站打开新窗口
+    window.open("https://github.com/yuxianzi666/yuxianzi666html",'_blank'); //点击网站打开新窗口
 }
 function menu_yongbushilian(){
     window.open("https://sway.cloud.microsoft/QKCCCUxk0nfjqAQR"); //点击网站打开新窗口
