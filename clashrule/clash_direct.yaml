@@ -4,7 +4,7 @@
 
 #DOMAIN-SUFFIX : match the last
 
-#DOMAIN-KEYWORD match the keyword
+#DOMAIN-KEYWORD : match the keyword
 
 payload:
 #- DOMAIN-SUFFIX,test.com
