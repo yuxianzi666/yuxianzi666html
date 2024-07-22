@@ -8,6 +8,7 @@
 
 payload:
 #- DOMAIN-SUFFIX,test.com
+- DOMAIN,github.yuxianzi666.xyz
 - DOMAIN-SUFFIX,huya.com
 - DOMAIN-SUFFIX,steamcontent.com
 - DOMAIN-SUFFIX,steamserver.net
