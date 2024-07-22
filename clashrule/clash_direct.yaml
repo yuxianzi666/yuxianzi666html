@@ -18,5 +18,5 @@ payload:
 - DOMAIN-SUFFIX,bugutv.org
 - DOMAIN-SUFFIX,fomecard.com
 - DOMAIN-SUFFIX,download.nvidia.com
-- DOMAIN-SUFFIX,abs.hls.ttvnw.net
+#- DOMAIN-SUFFIX,abs.hls.ttvnw.net
 #--------------------------------------------
