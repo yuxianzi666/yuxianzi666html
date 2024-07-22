@@ -7,5 +7,9 @@
 #DOMAIN-KEYWORD : match the keyword
 
 payload:
-#- DOMAIN-SUFFIX,test.com
-- DOMAIN-KEYWORD,spotify
+
+#--------------------------------------------
+- DOMAIN-SUFFIX,openai.com
+- DOMAIN-SUFFIX,chatgpt.com
+- DOMAIN-SUFFIX,spotify.com
+#--------------------------------------------
