@@ -12,4 +12,8 @@ payload:
 - DOMAIN-SUFFIX,openai.com
 - DOMAIN-SUFFIX,chatgpt.com
 - DOMAIN-SUFFIX,spotify.com
+- DOMAIN-SUFFIX,twitch.tv
+- DOMAIN-SUFFIX,ext-twitch.tv
 #--------------------------------------------
+-DOMAIN-KEYWORD,ext-twitch
+-DOMAIN-KEYWORD,twitch-ext
