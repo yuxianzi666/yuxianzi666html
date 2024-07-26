@@ -11,6 +11,8 @@ payload:
 #--------------------------------------------
 - DOMAIN-SUFFIX,x.com
 - DOMAIN-SUFFIX,18comic.vip
+- DOMAIN-SUFFIX,spotifycdn.com
+- DOMAIN-SUFFIX,akamaized.net #spotify
 - DOMAIN-SUFFIX,paypal.com
 - DOMAIN-SUFFIX,telegram.org
 - DOMAIN-SUFFIX,twitter.com
