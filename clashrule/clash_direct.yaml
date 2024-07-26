@@ -9,7 +9,19 @@
 payload:
 - DOMAIN,github.yuxianzi666.xyz
 #--------------------------------------------
+- DOMAIN-SUFFIX,qq.com
+- DOMAIN-SUFFIX,tencent.com
+- DOMAIN-SUFFIX,aliyun.com
+- DOMAIN-SUFFIX,4399.com
+- DOMAIN-SUFFIX,3839.com
+- DOMAIN-SUFFIX,bbs.binmt.cc
+- DOMAIN-SUFFIX,bbs.kafan.cn
+- DOMAIN-SUFFIX,52pojie.cn
+- DOMAIN-SUFFIX,baidu.com
 - DOMAIN-SUFFIX,huya.com
+- DOMAIN-SUFFIX,douyu.com
+- DOMAIN-SUFFIX,douyin.com
+- DOMAIN-SUFFIX,bilibili.com
 - DOMAIN-SUFFIX,steamcontent.com
 - DOMAIN-SUFFIX,steamserver.net
 - DOMAIN-SUFFIX,steamcommunity.com
@@ -18,5 +30,5 @@ payload:
 - DOMAIN-SUFFIX,bugutv.org
 - DOMAIN-SUFFIX,fomecard.com
 - DOMAIN-SUFFIX,download.nvidia.com
-- DOMAIN-SUFFIX,abs.hls.ttvnw.net
+- DOMAIN-SUFFIX,abs.hls.ttvnw.net #twitch直播视频
 #--------------------------------------------

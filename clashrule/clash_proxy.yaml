@@ -9,6 +9,16 @@
 payload:
 
 #--------------------------------------------
+- DOMAIN-SUFFIX,x.com
+- DOMAIN-SUFFIX,18comic.vip
+- DOMAIN-SUFFIX,paypal.com
+- DOMAIN-SUFFIX,telegram.org
+- DOMAIN-SUFFIX,twitter.com
+- DOMAIN-SUFFIX,spacex.com
+- DOMAIN-SUFFIX,youtube.com
+- DOMAIN-SUFFIX,instagram.com
+- DOMAIN-SUFFIX,discord.com
+- DOMAIN-SUFFIX,google.com
 - DOMAIN-SUFFIX,openai.com
 - DOMAIN-SUFFIX,chatgpt.com
 - DOMAIN-SUFFIX,spotify.com
