@@ -30,5 +30,5 @@ payload:
 - DOMAIN-SUFFIX,bugutv.org
 - DOMAIN-SUFFIX,fomecard.com
 - DOMAIN-SUFFIX,download.nvidia.com
-- DOMAIN-SUFFIX,abs.hls.ttvnw.net #twitch视频直播
+#- DOMAIN-SUFFIX,abs.hls.ttvnw.net #twitch视频直播
 #--------------------------------------------
