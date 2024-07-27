@@ -10,6 +10,7 @@ payload:
 
 #--------------------------------------------
 - DOMAIN-SUFFIX,x.com
+- DOMAIN-SUFFIX,github.com
 - DOMAIN-SUFFIX,18comic.vip
 - DOMAIN-SUFFIX,spotifycdn.com
 - DOMAIN-SUFFIX,akamaized.net #spotify
