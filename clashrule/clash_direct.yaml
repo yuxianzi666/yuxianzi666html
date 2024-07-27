@@ -9,6 +9,13 @@
 payload:
 - DOMAIN,github.yuxianzi666.xyz
 #--------------------------------------------
+- DOMAIN-SUFFIX,kaspersky-labs.com
+- DOMAIN-SUFFIX,kaspersky.com
+- DOMAIN-SUFFIX,wftpserver.com
+- DOMAIN-SUFFIX,biliapi.net
+- DOMAIN-SUFFIX,bilivideo.com
+- DOMAIN-SUFFIX,office.com
+- DOMAIN-SUFFIX,xiaomi.com
 - DOMAIN-SUFFIX,qq.com
 - DOMAIN-SUFFIX,tencent.com
 - DOMAIN-SUFFIX,aliyun.com
@@ -32,3 +39,4 @@ payload:
 - DOMAIN-SUFFIX,download.nvidia.com
 #- DOMAIN-SUFFIX,abs.hls.ttvnw.net #twitch视频直播
 #--------------------------------------------
+
