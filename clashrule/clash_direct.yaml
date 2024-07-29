@@ -39,6 +39,15 @@ payload:
 - DOMAIN-SUFFIX,download.nvidia.com
 - DOMAIN-SUFFIX,meituan.com
 - DOMAIN-SUFFIX,meituan.net
+- DOMAIN-SUFFIX,msn.com
+- DOMAIN-SUFFIX,live.com
+- DOMAIN-SUFFIX,windows.com
+- DOMAIN-SUFFIX,microsoft.com
+- DOMAIN-SUFFIX,microsoftonline.com
+- DOMAIN-SUFFIX,windowsupdate.com
+- DOMAIN-SUFFIX,126.net
+- DOMAIN-SUFFIX,163.net
+- DOMAIN-SUFFIX,kugou.com
 #- DOMAIN-SUFFIX,abs.hls.ttvnw.net #twitch视频直播
 #--------------------------------------------
-
+- DOMAIN-KEYWORD,cn

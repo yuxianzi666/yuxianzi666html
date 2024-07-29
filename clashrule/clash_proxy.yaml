@@ -28,6 +28,7 @@ payload:
 - DOMAIN-SUFFIX,twitch.tv
 - DOMAIN-SUFFIX,ext-twitch.tv
 - DOMAIN-SUFFIX,twitchcdn.net
+- DOMAIN-SUFFIX,bing.com
 #--------------------------------------------
 - DOMAIN-KEYWORD,ext-twitch
 - DOMAIN-KEYWORD,twitch-ext
