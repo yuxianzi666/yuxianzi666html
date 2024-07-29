@@ -76,4 +76,4 @@ payload:
 - DOMAIN-SUFFIX,coolapk.com
 #- DOMAIN-SUFFIX,abs.hls.ttvnw.net #twitch视频直播
 #--------------------------------------------
-- DOMAIN-KEYWORD,cn
+#- DOMAIN-KEYWORD,cn
