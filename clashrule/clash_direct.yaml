@@ -15,7 +15,10 @@ payload:
 - DOMAIN-SUFFIX,biliapi.net
 - DOMAIN-SUFFIX,bilivideo.com
 - DOMAIN-SUFFIX,office.com
+- DOMAIN-SUFFIX,mi.com
+- DOMAIN-SUFFIX,miui.com
 - DOMAIN-SUFFIX,xiaomi.com
+- DOMAIN-SUFFIX,xiaomixiaoai.com
 - DOMAIN-SUFFIX,qq.com
 - DOMAIN-SUFFIX,tencent.com
 - DOMAIN-SUFFIX,aliyun.com
@@ -48,6 +51,29 @@ payload:
 - DOMAIN-SUFFIX,126.net
 - DOMAIN-SUFFIX,163.net
 - DOMAIN-SUFFIX,kugou.com
+- DOMAIN-SUFFIX,fanqienovel.com
+- DOMAIN-SUFFIX,qidian.com
+- DOMAIN-SUFFIX,shuqi.com
+- DOMAIN-SUFFIX,taobao.com
+- DOMAIN-SUFFIX,alibaba.com
+- DOMAIN-SUFFIX,alibabagroup.com
+- DOMAIN-SUFFIX,tmall.com
+- DOMAIN-SUFFIX,flyggi.com
+- DOMAIN-SUFFIX,aliyun.com
+- DOMAIN-SUFFIX,alimama.com
+- DOMAIN-SUFFIX,gaode.com
+- DOMAIN-SUFFIX,amap.com
+- DOMAIN-SUFFIX,alipay.com
+- DOMAIN-SUFFIX,umeng.com
+- DOMAIN-SUFFIX,xiami.com
+- DOMAIN-SUFFIX,youku.com
+- DOMAIN-SUFFIX,iqiyi.com
+- DOMAIN-SUFFIX,dingtalk.com
+- DOMAIN-SUFFIX,alibabapictures.com
+- DOMAIN-SUFFIX,xiaohongshu.com
+- DOMAIN-SUFFIX,meituan.com
+- DOMAIN-SUFFIX,ele.me
+- DOMAIN-SUFFIX,coolapk.com
 #- DOMAIN-SUFFIX,abs.hls.ttvnw.net #twitch视频直播
 #--------------------------------------------
 - DOMAIN-KEYWORD,cn
