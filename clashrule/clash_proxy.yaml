@@ -10,6 +10,7 @@ payload:
 
 #--------------------------------------------
 - DOMAIN-SUFFIX,x.com
+- DOMAIN-SUFFIX,twitter.com
 - DOMAIN-SUFFIX,github.com
 - DOMAIN-SUFFIX,18comic.vip
 - DOMAIN-SUFFIX,spotifycdn.com
@@ -36,6 +37,13 @@ payload:
 - DOMAIN-SUFFIX,onedrive.com
 - DOMAIN-SUFFIX,bingapis.com
 - DOMAIN-SUFFIX,msecnd.net
+- DOMAIN-SUFFIX,twimg.com
+- DOMAIN-SUFFIX,googleapis.com
+- DOMAIN-SUFFIX,githubusercontent.com
+- DOMAIN-SUFFIX,github.com
+- DOMAIN-SUFFIX,appcenter.ms
+- DOMAIN-SUFFIX,ipify.org
+- DOMAIN-SUFFIX,pscp.tv
 #--------------------------------------------
 - DOMAIN-KEYWORD,ext-twitch
 - DOMAIN-KEYWORD,twitch-ext
