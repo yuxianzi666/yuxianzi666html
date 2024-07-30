@@ -80,6 +80,6 @@ payload:
 - DOMAIN-SUFFIX,10010.com
 - DOMAIN-SUFFIX,10086.cn
 - DOMAIN-SUFFIX,cn.pool.ntp.org
-#- DOMAIN-SUFFIX,abs.hls.ttvnw.net #twitch视频直播
+#- DOMAIN-SUFFIX,abs.hls.ttvnw.net # twitch!!!
 #--------------------------------------------
-#- DOMAIN-KEYWORD,cn
+
