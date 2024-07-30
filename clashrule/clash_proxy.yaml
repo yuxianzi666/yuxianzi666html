@@ -22,6 +22,7 @@ payload:
 - DOMAIN-SUFFIX,instagram.com
 - DOMAIN-SUFFIX,discord.com
 - DOMAIN-SUFFIX,google.com
+- DOMAIN-SUFFIX,google.cn
 - DOMAIN-SUFFIX,openai.com
 - DOMAIN-SUFFIX,chatgpt.com
 - DOMAIN-SUFFIX,spotify.com
