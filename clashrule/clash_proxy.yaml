@@ -45,6 +45,8 @@ payload:
 - DOMAIN-SUFFIX,ipify.org
 - DOMAIN-SUFFIX,pscp.tv
 - DOMAIN-SUFFIX,outlook.com
+- DOMAIN-SUFFIX,msedge.net
+- DOMAIN-SUFFIX,office.net
 #--------------------------------------------
 - DOMAIN-KEYWORD,ext-twitch
 - DOMAIN-KEYWORD,twitch-ext
