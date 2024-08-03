@@ -82,6 +82,7 @@ payload:
 - DOMAIN-SUFFIX,cn.pool.ntp.org
 - DOMAIN-SUFFIX,pconline.com.cn
 - DOMAIN-SUFFIX,azure.cn
+- DOMAIN-SUFFIX,bytefcdnrd.com
 #- DOMAIN-SUFFIX,abs.hls.ttvnw.net # twitch!!!
 #--------------------------------------------
 
