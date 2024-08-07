@@ -35,7 +35,7 @@ payload:
 - DOMAIN-SUFFIX,steamcontent.com
 - DOMAIN-SUFFIX,steamserver.net
 - DOMAIN-SUFFIX,steamcommunity.com
-#- DOMAIN-SUFFIX,steamstatic.com
+- DOMAIN-SUFFIX,steamstatic.com
 - DOMAIN-SUFFIX,steampowered.com
 - DOMAIN-SUFFIX,bugutv.org
 - DOMAIN-SUFFIX,fomecard.com
@@ -82,6 +82,7 @@ payload:
 - DOMAIN-SUFFIX,cn.pool.ntp.org
 - DOMAIN-SUFFIX,pconline.com.cn
 - DOMAIN-SUFFIX,azure.cn
+- DOMAIN-SUFFIX,dsxys.pro
 #- DOMAIN-SUFFIX,abs.hls.ttvnw.net # twitch!!!
 #--------------------------------------------
 
