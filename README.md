@@ -9,8 +9,8 @@
 <details>
 <summary>openclash自定义规则集地址：（点击展开）</summary>
 reject：https://github.yuxianzi666.xyz/clashrule/clash_reject.yaml</br>
-direct：https://github.yuxianzi666.xyz/clashrule/clash_direct.yaml</br>
 proxy：https://github.yuxianzi666.xyz/clashrule/clash_proxy.yaml</br>
+direct：https://github.yuxianzi666.xyz/clashrule/clash_direct.yaml</br>
 </details>
 
 |选项名|应选择的选项|
