@@ -87,6 +87,7 @@ payload:
 - DOMAIN-SUFFIX,pconline.com.cn
 - DOMAIN-SUFFIX,azure.cn
 - DOMAIN-SUFFIX,dsxys.pro
+- DOMAIN-SUFFIX,qiyou.cn
 #- DOMAIN-SUFFIX,abs.hls.ttvnw.net # twitch!!!
 #--------------------------------------------
 
