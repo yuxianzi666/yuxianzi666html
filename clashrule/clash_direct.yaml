@@ -88,6 +88,20 @@ payload:
 - DOMAIN-SUFFIX,azure.cn
 - DOMAIN-SUFFIX,dsxys.pro
 - DOMAIN-SUFFIX,qiyou.cn
+- DOMAIN-SUFFIX,hao123.com
+- DOMAIN-SUFFIX,douban.com
+- DOMAIN-SUFFIX,zhihu.com
+- DOMAIN-SUFFIX,58.com
+- DOMAIN-SUFFIX,smartedu.cn
+- DOMAIN-SUFFIX,ximalaya.com
+- DOMAIN-SUFFIX,hupu.com
+- DOMAIN-SUFFIX,renren.com
+- DOMAIN-SUFFIX,fliggy.com
+- DOMAIN-SUFFIX,kuwo.com
+- DOMAIN-SUFFIX,abchina.com
+- DOMAIN-SUFFIX,icbc.com.cn
+- DOMAIN-SUFFIX,psbc.com
+- DOMAIN-SUFFIX,foxmail.com
 #- DOMAIN-SUFFIX,abs.hls.ttvnw.net # twitch!!!
 #--------------------------------------------
 
