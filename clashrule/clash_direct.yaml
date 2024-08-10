@@ -56,6 +56,7 @@ payload:
 - DOMAIN-SUFFIX,126.net
 - DOMAIN-SUFFIX,163.net
 - DOMAIN-SUFFIX,163.com
+- DOMAIN-SUFFIX,netease.com
 - DOMAIN-SUFFIX,kugou.com
 - DOMAIN-SUFFIX,fanqienovel.com
 - DOMAIN-SUFFIX,qidian.com
@@ -102,7 +103,7 @@ payload:
 - DOMAIN-SUFFIX,icbc.com.cn
 - DOMAIN-SUFFIX,psbc.com
 - DOMAIN-SUFFIX,foxmail.com
-- DOMAIN-SUFFIX,cdn.ubi.com
+- DOMAIN-SUFFIX,ubi.com
 - DOMAIN-SUFFIX,ubisoft.com
 #- DOMAIN-SUFFIX,abs.hls.ttvnw.net # twitch!!!
 #--------------------------------------------
