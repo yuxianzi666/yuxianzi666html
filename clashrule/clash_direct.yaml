@@ -102,6 +102,8 @@ payload:
 - DOMAIN-SUFFIX,icbc.com.cn
 - DOMAIN-SUFFIX,psbc.com
 - DOMAIN-SUFFIX,foxmail.com
+- DOMAIN-SUFFIX,cdn.ubi.com
+- DOMAIN-SUFFIX,ubisoft.com
 #- DOMAIN-SUFFIX,abs.hls.ttvnw.net # twitch!!!
 #--------------------------------------------
 
