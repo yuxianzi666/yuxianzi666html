@@ -31,6 +31,7 @@ payload:
 - DOMAIN-SUFFIX,ext-twitch.tv
 - DOMAIN-SUFFIX,twitchcdn.net
 - DOMAIN-SUFFIX,bing.com
+- DOMAIN-SUFFIX,live.com
 - DOMAIN-SUFFIX,azureedge.net
 - DOMAIN-SUFFIX,trafficmanager.net
 - DOMAIN-SUFFIX,gstatic.com

@@ -48,7 +48,6 @@ payload:
 - DOMAIN-SUFFIX,meituan.net
 - DOMAIN-SUFFIX,msn.com
 - DOMAIN-SUFFIX,msn.cn
-- DOMAIN-SUFFIX,live.com
 - DOMAIN-SUFFIX,windows.com
 - DOMAIN-SUFFIX,microsoft.com
 - DOMAIN-SUFFIX,microsoftonline.com
