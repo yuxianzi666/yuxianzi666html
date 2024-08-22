@@ -49,6 +49,7 @@ payload:
 - DOMAIN-SUFFIX,msedge.net
 - DOMAIN-SUFFIX,office.net
 - DOMAIN-SUFFIX,githubusercontent.com
+- DOMAIN-SUFFIX,cloudflare.com
 #--------------------------------------------
 - DOMAIN-KEYWORD,ext-twitch
 - DOMAIN-KEYWORD,twitch-ext
