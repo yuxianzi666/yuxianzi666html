@@ -50,6 +50,7 @@ payload:
 - DOMAIN-SUFFIX,office.net
 - DOMAIN-SUFFIX,githubusercontent.com
 - DOMAIN-SUFFIX,cloudflare.com
+- DOMAIN-SUFFIX,netflix.com
 #--------------------------------------------
 - DOMAIN-KEYWORD,ext-twitch
 - DOMAIN-KEYWORD,twitch-ext
