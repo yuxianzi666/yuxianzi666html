@@ -51,6 +51,7 @@ payload:
 - DOMAIN-SUFFIX,githubusercontent.com
 - DOMAIN-SUFFIX,cloudflare.com
 - DOMAIN-SUFFIX,netflix.com
+- DOMAIN-SUFFIX,nflxvideo.net
 #--------------------------------------------
 - DOMAIN-KEYWORD,ext-twitch
 - DOMAIN-KEYWORD,twitch-ext
