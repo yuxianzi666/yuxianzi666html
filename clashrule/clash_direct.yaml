@@ -115,6 +115,7 @@ payload:
 - DOMAIN-SUFFIX,nvidia.com
 - DOMAIN-SUFFIX,pinduoduo.com
 - DOMAIN-SUFFIX,jd.com
+- DOMAIN-SUFFIX,universalbus.cn
 #- DOMAIN-SUFFIX,abs.hls.ttvnw.net # twitch!!!
 #--------------------------------------------
 
