@@ -34,6 +34,11 @@ payload:
 - DOMAIN-SUFFIX,douyu.com
 - DOMAIN-SUFFIX,douyin.com
 - DOMAIN-SUFFIX,douyincdn.com
+- DOMAIN-SUFFIX,douyinpic.com
+- DOMAIN-SUFFIX,douyinvod.com
+- DOMAIN-SUFFIX,zijieapi.com
+- DOMAIN-SUFFIX,bytegoofy.com
+- DOMAIN-SUFFIX,bytednsdoc.com
 - DOMAIN-SUFFIX,bilibili.com
 - DOMAIN-SUFFIX,steamcontent.com
 - DOMAIN-SUFFIX,steamserver.net
