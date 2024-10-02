@@ -33,6 +33,7 @@ payload:
 - DOMAIN-SUFFIX,huya.com
 - DOMAIN-SUFFIX,douyu.com
 - DOMAIN-SUFFIX,douyin.com
+- DOMAIN-SUFFIX,douyincdn.com
 - DOMAIN-SUFFIX,bilibili.com
 - DOMAIN-SUFFIX,steamcontent.com
 - DOMAIN-SUFFIX,steamserver.net
