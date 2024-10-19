@@ -41,7 +41,6 @@ payload:
 - DOMAIN-SUFFIX,bingapis.com
 - DOMAIN-SUFFIX,msecnd.net
 - DOMAIN-SUFFIX,twimg.com
-- DOMAIN-SUFFIX,googleapis.com
 - DOMAIN-SUFFIX,githubusercontent.com
 - DOMAIN-SUFFIX,github.com
 - DOMAIN-SUFFIX,appcenter.ms
