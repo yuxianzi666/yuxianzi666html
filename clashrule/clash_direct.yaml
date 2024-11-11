@@ -123,6 +123,7 @@ payload:
 - DOMAIN-SUFFIX,jd.com
 - DOMAIN-SUFFIX,universalbus.cn
 - DOMAIN-SUFFIX,epicgamescdn.com
+- DOMAIN-SUFFIX,download.epicgames.com
 #- DOMAIN-SUFFIX,abs.hls.ttvnw.net # twitch!!!
 #--------------------------------------------
 
