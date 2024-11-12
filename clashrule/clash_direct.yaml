@@ -125,6 +125,7 @@ payload:
 - DOMAIN-SUFFIX,epicgamescdn.com
 - DOMAIN-SUFFIX,download.epicgames.com
 - DOMAIN-SUFFIX,xboxlive.com
+- DOMAIN-SUFFIX,llnwd.net
 #- DOMAIN-SUFFIX,abs.hls.ttvnw.net # twitch!!!
 #--------------------------------------------
 
