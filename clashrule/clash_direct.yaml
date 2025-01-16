@@ -129,5 +129,4 @@ payload:
 - DOMAIN-SUFFIX,asus.com.cn
 #- DOMAIN-SUFFIX,abs.hls.ttvnw.net # twitch!!!
 #--------------------------------------------
-- SRC-IP-CIDR,18.224.1.52/32
-- SRC-PORT,7100
+
