@@ -10,3 +10,6 @@ function menu_about(){
 function menu_yongbushilian(){
     window.open("https://sway.cloud.microsoft/QKCCCUxk0nfjqAQR"); //点击网站打开新窗口
 }
+function a1_llxhq(){
+    window.open("./html/llxhq/index.html"); //点击网站打开新窗口
+}
