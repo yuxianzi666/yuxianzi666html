@@ -15,10 +15,6 @@ payload:
 - DOMAIN-SUFFIX,biliapi.net
 - DOMAIN-SUFFIX,bilivideo.com
 - DOMAIN-SUFFIX,office.com
-- DOMAIN-SUFFIX,mi.com
-- DOMAIN-SUFFIX,miui.com
-- DOMAIN-SUFFIX,xiaomi.com
-- DOMAIN-SUFFIX,xiaomixiaoai.com
 - DOMAIN-SUFFIX,qq.com
 - DOMAIN-SUFFIX,tencent.com
 - DOMAIN-SUFFIX,aliyun.com
@@ -80,7 +76,6 @@ payload:
 - DOMAIN-SUFFIX,amap.com
 - DOMAIN-SUFFIX,alipay.com
 - DOMAIN-SUFFIX,umeng.com
-- DOMAIN-SUFFIX,xiami.com
 - DOMAIN-SUFFIX,youku.com
 - DOMAIN-SUFFIX,iqiyi.com
 - DOMAIN-SUFFIX,dingtalk.com
@@ -117,7 +112,6 @@ payload:
 - DOMAIN-SUFFIX,ubisoft.com
 - DOMAIN-SUFFIX,xdrtc.com
 - DOMAIN-SUFFIX,heytapdownload.com
-- DOMAIN-SUFFIX,xiaomi.net
 - DOMAIN-SUFFIX,alicdn.com
 - DOMAIN-SUFFIX,nvidia.com
 - DOMAIN-SUFFIX,pinduoduo.com
