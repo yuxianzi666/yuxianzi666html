@@ -125,6 +125,8 @@ payload:
 - DOMAIN-SUFFIX,iacg.love
 - DOMAIN-SUFFIX,xiaomi.com
 - DOMAIN-SUFFIX,miui.com
+- DOMAIN-SUFFIX,71acg.com
+- DOMAIN-SUFFIX,inutan.com
 #- DOMAIN-SUFFIX,abs.hls.ttvnw.net # twitch!!!
 #--------------------------------------------
 
