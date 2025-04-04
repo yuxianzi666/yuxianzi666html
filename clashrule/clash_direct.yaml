@@ -122,6 +122,9 @@ payload:
 - DOMAIN-SUFFIX,xboxlive.com
 - DOMAIN-SUFFIX,llnwd.net
 - DOMAIN-SUFFIX,asus.com.cn
+- DOMAIN-SUFFIX,iacg.love
+- DOMAIN-SUFFIX,xiaomi.com
+- DOMAIN-SUFFIX,miui.com
 #- DOMAIN-SUFFIX,abs.hls.ttvnw.net # twitch!!!
 #--------------------------------------------
 
