@@ -1,15 +1,16 @@
-1、单独安装argon主题
-opkg update
-	opkg install luci-lib-ipkg
-	wget -O "/tmp/luci-theme-argon.ipk" "https://yuxianzi666.github.io/yuxianzi666html/html/a1_MT3000/luci-theme-argon-master_2.2.9.4_all.ipk"
-	wget -O "/tmp/luci-app-argon-config.ipk" "https://yuxianzi666.github.io/yuxianzi666html/html/a1_MT3000/luci-app-argon-config_0.9_all.ipk"
-	wget -O "/tmp/luci-i18n-argon-config-zh-cn.ipk" "https://yuxianzi666.github.io/yuxianzi666html/html/a1_MT3000/luci-i18n-argon-config-zh-cn.ipk"
-	cd /tmp/
-	opkg install luci-theme-argon.ipk luci-app-argon-config.ipk luci-i18n-argon-config-zh-cn.ipk
+<a>
+    1、单独安装argon主题</br>
+        opkg update</br>
+        opkg install luci-lib-ipkg</br>
+        wget -O "/tmp/luci-theme-argon.ipk" "https://yuxianzi666.github.io/yuxianzi666html/html/a1_MT3000/luci-theme-argon-master_2.2.9.4_all.ipk"</br>
+        wget -O "/tmp/luci-app-argon-config.ipk" "https://yuxianzi666.github.io/yuxianzi666html/html/a1_MT3000/luci-app-argon-config_0.9_all.ipk"</br>
+        wget -O "/tmp/luci-i18n-argon-config-zh-cn.ipk" "https://yuxianzi666.github.io/yuxianzi666html/html/a1_MT3000/luci-i18n-argon-config-zh-cn.ipk"</br>
+        cd /tmp/</br>
+        opkg install luci-theme-argon.ipk luci-app-argon-config.ipk luci-i18n-argon-config-zh-cn.ipk</br></br>
+    
+    2、设置风扇工作温度</br>
+        uci set glfan.@globals[0].temperature=48</br>
+        uci commit glfan</br>
+        /etc/init.d/gl_fan restart</br>
 
-2、设置风扇工作温度
-    uci set glfan.@globals[0].temperature=48
-    uci commit glfan
-    /etc/init.d/gl_fan restart
-
-3、
+</a>
