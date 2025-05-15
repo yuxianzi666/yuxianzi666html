@@ -13,3 +13,6 @@ function menu_yongbushilian(){
 function a1_llxhq(){
     window.open("./html/llxhq/index.html"); //点击网站打开新窗口
 }
+function a1_MT3000(){
+    window.open("./html/a1_MT3000/index.html"); //点击网站打开新窗口
+}
