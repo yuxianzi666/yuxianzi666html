@@ -1,6 +1,6 @@
 # 关于网站
 ### 网站主页：https://github.yuxianzi666.xyz/
-### 网站备用主页1：https://yuxianzi666html.netlify.app
+### 网站备用主页1：https://github1.yuxianzi666.xyz/
 ### 网站备用主页2：https://yuxianzi666.github.io/yuxianzi666html
 
 </br>
