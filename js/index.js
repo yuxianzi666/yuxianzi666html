@@ -1,3 +1,6 @@
+function menu_logo(){
+    window.open("./index.md",'_blank'); //点击网站运行状态打开新窗口
+}
 function menu_index(){
     window.location.reload(); //点击刷新
 }
