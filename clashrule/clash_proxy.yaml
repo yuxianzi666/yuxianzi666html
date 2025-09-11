@@ -7,53 +7,18 @@
 #DOMAIN-KEYWORD : match the keyword
 
 payload:
-
 #--------------------------------------------
+#临时
+
+# 推特
 - DOMAIN-SUFFIX,x.com
 - DOMAIN-SUFFIX,twitter.com
+
+# github
 - DOMAIN-SUFFIX,github.com
+
+# 禁漫天堂
 - DOMAIN-SUFFIX,18comic.vip
-- DOMAIN-SUFFIX,spotifycdn.com
-- DOMAIN-SUFFIX,akamaized.net #spotify
-- DOMAIN-SUFFIX,paypal.com
-- DOMAIN-SUFFIX,telegram.org
-- DOMAIN-SUFFIX,twitter.com
-- DOMAIN-SUFFIX,spacex.com
-- DOMAIN-SUFFIX,youtube.com
-- DOMAIN-SUFFIX,instagram.com
-- DOMAIN-SUFFIX,discord.com
-- DOMAIN-SUFFIX,google.com
-- DOMAIN-SUFFIX,google.cn
-- DOMAIN-SUFFIX,googleapis.com
-- DOMAIN-SUFFIX,googleapis.cn
-- DOMAIN-SUFFIX,googlevideo.com
-- DOMAIN-SUFFIX,openai.com
-- DOMAIN-SUFFIX,chatgpt.com
-- DOMAIN-SUFFIX,spotify.com
-- DOMAIN-SUFFIX,twitch.tv
-- DOMAIN-SUFFIX,ext-twitch.tv
-- DOMAIN-SUFFIX,twitchcdn.net
-- DOMAIN-SUFFIX,bing.com
-- DOMAIN-SUFFIX,live.com
-- DOMAIN-SUFFIX,azureedge.net
-- DOMAIN-SUFFIX,trafficmanager.net
-- DOMAIN-SUFFIX,gstatic.com
-- DOMAIN-SUFFIX,onedrive.com
-- DOMAIN-SUFFIX,bingapis.com
-- DOMAIN-SUFFIX,msecnd.net
-- DOMAIN-SUFFIX,twimg.com
-- DOMAIN-SUFFIX,githubusercontent.com
-- DOMAIN-SUFFIX,github.com
-- DOMAIN-SUFFIX,appcenter.ms
-- DOMAIN-SUFFIX,ipify.org
-- DOMAIN-SUFFIX,pscp.tv
-- DOMAIN-SUFFIX,outlook.com
-- DOMAIN-SUFFIX,msedge.net
-- DOMAIN-SUFFIX,office.net
-- DOMAIN-SUFFIX,githubusercontent.com
-- DOMAIN-SUFFIX,cloudflare.com
-- DOMAIN-SUFFIX,netflix.com
-- DOMAIN-SUFFIX,nflxvideo.net
+
 #--------------------------------------------
-- DOMAIN-KEYWORD,ext-twitch
-- DOMAIN-KEYWORD,twitch-ext
+

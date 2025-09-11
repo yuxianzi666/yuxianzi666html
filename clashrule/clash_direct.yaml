@@ -7,126 +7,171 @@
 #DOMAIN-KEYWORD : match the keyword
 
 payload:
+#个人网站
 - DOMAIN,github.yuxianzi666.xyz
 #--------------------------------------------
+# 临时
+
+# 卡巴斯基
 - DOMAIN-SUFFIX,kaspersky-labs.com
 - DOMAIN-SUFFIX,kaspersky.com
-- DOMAIN-SUFFIX,wftpserver.com
+
+# 哔哩哔哩
 - DOMAIN-SUFFIX,biliapi.net
 - DOMAIN-SUFFIX,bilivideo.com
-- DOMAIN-SUFFIX,office.com
+- DOMAIN-SUFFIX,bilibili.com
+
+# 腾讯系
 - DOMAIN-SUFFIX,qq.com
 - DOMAIN-SUFFIX,tencent.com
+- DOMAIN-SUFFIX,kugou.com
+
+# 阿里系
+- DOMAIN-SUFFIX,taobao.com
 - DOMAIN-SUFFIX,aliyun.com
+- DOMAIN-SUFFIX,alibaba.com
+- DOMAIN-SUFFIX,alibabagroup.com
+- DOMAIN-SUFFIX,alimama.com
+- DOMAIN-SUFFIX,alipay.com
+- DOMAIN-SUFFIX,dingtalk.com
+- DOMAIN-SUFFIX,alibabapictures.com
+- DOMAIN-SUFFIX,alicdn.com
+
+# 游戏网站
 - DOMAIN-SUFFIX,4399.com
 - DOMAIN-SUFFIX,3839.com
 - DOMAIN-SUFFIX,3839app.com
-- DOMAIN-SUFFIX,71acg.com
+
+# MT论坛
 - DOMAIN-SUFFIX,bbs.binmt.cc
+
+# 卡饭论坛
 - DOMAIN-SUFFIX,bbs.kafan.cn
+
+# 吾爱破解
 - DOMAIN-SUFFIX,52pojie.cn
+
+# 百度系
 - DOMAIN-SUFFIX,baidu.com
+
+# 虎牙系
 - DOMAIN-SUFFIX,huya.com
+
+# 斗鱼系
 - DOMAIN-SUFFIX,douyu.com
+
+# 抖音系
 - DOMAIN-SUFFIX,douyin.com
 - DOMAIN-SUFFIX,douyincdn.com
 - DOMAIN-SUFFIX,douyinpic.com
 - DOMAIN-SUFFIX,douyinvod.com
-- DOMAIN-SUFFIX,ndcpp.com
 - DOMAIN-SUFFIX,zijieapi.com
 - DOMAIN-SUFFIX,bytegoofy.com
 - DOMAIN-SUFFIX,bytednsdoc.com
-- DOMAIN-SUFFIX,bilibili.com
-- DOMAIN-SUFFIX,steamcontent.com
-- DOMAIN-SUFFIX,steamserver.net
-- DOMAIN-SUFFIX,steamcommunity.com
-- DOMAIN-SUFFIX,steamstatic.com
-- DOMAIN-SUFFIX,steampowered.com
-- DOMAIN-SUFFIX,clngaa.com
-- DOMAIN-SUFFIX,pphimalayanrt.com
-- DOMAIN-SUFFIX,manlaxy.com
-- DOMAIN-SUFFIX,akamaized.net
-- DOMAIN-SUFFIX,bugutv.org
-- DOMAIN-SUFFIX,fomecard.com
-- DOMAIN-SUFFIX,download.nvidia.com
+- DOMAIN-SUFFIX,bytedance.com
+
+
+# 美团系
 - DOMAIN-SUFFIX,meituan.com
 - DOMAIN-SUFFIX,meituan.net
-- DOMAIN-SUFFIX,msn.com
-- DOMAIN-SUFFIX,msn.cn
-- DOMAIN-SUFFIX,windows.com
-- DOMAIN-SUFFIX,microsoft.com
-- DOMAIN-SUFFIX,microsoftonline.com
-- DOMAIN-SUFFIX,windowsupdate.com
+- DOMAIN-SUFFIX,meituanimg.com
+
+# 网易系
 - DOMAIN-SUFFIX,126.net
 - DOMAIN-SUFFIX,163.net
 - DOMAIN-SUFFIX,163.com
 - DOMAIN-SUFFIX,netease.com
-- DOMAIN-SUFFIX,kugou.com
+
+# 小说网站
 - DOMAIN-SUFFIX,fanqienovel.com
 - DOMAIN-SUFFIX,qidian.com
 - DOMAIN-SUFFIX,shuqi.com
-- DOMAIN-SUFFIX,taobao.com
-- DOMAIN-SUFFIX,alibaba.com
-- DOMAIN-SUFFIX,alibabagroup.com
-- DOMAIN-SUFFIX,tmall.com
-- DOMAIN-SUFFIX,flyggi.com
-- DOMAIN-SUFFIX,aliyun.com
-- DOMAIN-SUFFIX,alimama.com
+- DOMAIN-SUFFIX,wap.xbiqugu.la
+
+# 高德地图
 - DOMAIN-SUFFIX,gaode.com
 - DOMAIN-SUFFIX,amap.com
-- DOMAIN-SUFFIX,alipay.com
-- DOMAIN-SUFFIX,umeng.com
+
+# 优酷视频
 - DOMAIN-SUFFIX,youku.com
+
+# 爱奇艺
 - DOMAIN-SUFFIX,iqiyi.com
-- DOMAIN-SUFFIX,dingtalk.com
-- DOMAIN-SUFFIX,alibabapictures.com
+
+# 小红书
 - DOMAIN-SUFFIX,xiaohongshu.com
+
+# 美团
 - DOMAIN-SUFFIX,meituan.com
+
+# 饿了么
 - DOMAIN-SUFFIX,ele.me
+
+# 酷安
 - DOMAIN-SUFFIX,coolapk.com
+
+# 中国电信
 - DOMAIN-SUFFIX,189.cn
-- DOMAIN-SUFFIX,10010.com
+
+# 中国联通
+- DOMAIN-SUFFIX,wo.com.cn
+
+# 中国移动
 - DOMAIN-SUFFIX,10086.cn
-- DOMAIN-SUFFIX,cn.pool.ntp.org
-- DOMAIN-SUFFIX,pconline.com.cn
-- DOMAIN-SUFFIX,azure.cn
-- DOMAIN-SUFFIX,dsxys.pro
+
+# 奇游
 - DOMAIN-SUFFIX,qiyou.cn
+
+# hao123
 - DOMAIN-SUFFIX,hao123.com
+
+# 豆瓣
 - DOMAIN-SUFFIX,douban.com
+
+#知乎
 - DOMAIN-SUFFIX,zhihu.com
+
+# 58同城
 - DOMAIN-SUFFIX,58.com
-- DOMAIN-SUFFIX,smartedu.cn
+
+# 喜马拉雅
 - DOMAIN-SUFFIX,ximalaya.com
+
+#虎扑
 - DOMAIN-SUFFIX,hupu.com
+
+# 人人网
 - DOMAIN-SUFFIX,renren.com
+
+# 飞猪旅行
 - DOMAIN-SUFFIX,fliggy.com
+
+# 酷我
 - DOMAIN-SUFFIX,kuwo.com
-- DOMAIN-SUFFIX,abchina.com
+
+
+# 招商银行
 - DOMAIN-SUFFIX,icbc.com.cn
-- DOMAIN-SUFFIX,psbc.com
-- DOMAIN-SUFFIX,foxmail.com
-- DOMAIN-SUFFIX,ubi.com
-- DOMAIN-SUFFIX,ubionline.com
-- DOMAIN-SUFFIX,ubionline.com.cn
-- DOMAIN-SUFFIX,ubisoft.com
-- DOMAIN-SUFFIX,xdrtc.com
+
+# 广东欢太科技
 - DOMAIN-SUFFIX,heytapdownload.com
-- DOMAIN-SUFFIX,alicdn.com
-- DOMAIN-SUFFIX,nvidia.com
+
+# 拼多多
 - DOMAIN-SUFFIX,pinduoduo.com
+
+# 京东
 - DOMAIN-SUFFIX,jd.com
+
+# 环球巴士，合租平台
 - DOMAIN-SUFFIX,universalbus.cn
-- DOMAIN-SUFFIX,epicgamescdn.com
-- DOMAIN-SUFFIX,download.epicgames.com
-- DOMAIN-SUFFIX,xboxlive.com
-- DOMAIN-SUFFIX,llnwd.net
-- DOMAIN-SUFFIX,asus.com.cn
+
+# 爱之列车，18+ 分享
 - DOMAIN-SUFFIX,iacg.love
+
+# 小米
 - DOMAIN-SUFFIX,xiaomi.com
 - DOMAIN-SUFFIX,miui.com
-- DOMAIN-SUFFIX,71acg.com
-- DOMAIN-SUFFIX,inutan.com
-#- DOMAIN-SUFFIX,abs.hls.ttvnw.net # twitch!!!
+- DOMAIN-SUFFIX,mi.com
+
 #--------------------------------------------
 
