@@ -1,4 +1,4 @@
-### WINDOWS 文件检测
+ ### WINDOWS 文件检测
 
 sfc /SCANNOW
 Dism /Online /Cleanup-Image /ScanHealth
@@ -62,10 +62,12 @@ docker run -d --restart unless-stopped -p <访问端口>:<docker内部端口> -v
 
 ### ffmpeg 命令
 
-剪切视频：ffmpeg -i <输入文件> -ss <起始时间00:00:00> -to <结束时间00:00:00> -c copy <输出文件>
-裁剪视频尺寸：ffmpeg -i <输入文件> -vf crop=<宽度>:<高度>:<起始坐标X>:<起始坐标Y> <输出文件>
+转换视频：ffmpeg -hwaccel cuda -i <输入文件> -c:v h264_nvenc <输出文件>
+剪切视频：ffmpeg -hwaccel cuda -i <输入文件> -ss [起始时间00:00:00] -to [结束时间00:00:00] -c:v h264_nvenc <输出文件>
+裁剪视频尺寸：ffmpeg -hwaccel cuda -i <输入文件> -vf crop=<宽度>:<高度>:<起始坐标X>:<起始坐标Y> -c:v h264_nvenc <输出文件>
 
 ### ubuntu 命令
+
 更新软件源：sudo apt-get update
 更新所有软件：sudo apt-get upgrade
 更新某个特定软件：sudo apt-get upgrade <软件名>
@@ -78,3 +80,4 @@ docker run -d --restart unless-stopped -p <访问端口>:<docker内部端口> -v
 清理所有已下载软件包：sudo apt clean
 仅清理已过期或不再维护的软件包：sudo apt autoclean
 清理旧内核：sudo apt autoremove --purge
+
