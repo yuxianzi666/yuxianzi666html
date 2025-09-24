@@ -165,9 +165,6 @@ payload:
 # 环球巴士，合租平台
 - DOMAIN-SUFFIX,universalbus.cn
 
-# 爱之列车，18+ 分享
-- DOMAIN-SUFFIX,iacg.love
-
 # 小米
 - DOMAIN-SUFFIX,xiaomi.com
 - DOMAIN-SUFFIX,miui.com
