@@ -70,7 +70,6 @@ payload:
 - DOMAIN-SUFFIX,bytednsdoc.com
 - DOMAIN-SUFFIX,bytedance.com
 
-
 # 美团系
 - DOMAIN-SUFFIX,meituan.com
 - DOMAIN-SUFFIX,meituan.net
@@ -149,7 +148,6 @@ payload:
 # 酷我
 - DOMAIN-SUFFIX,kuwo.com
 
-
 # 招商银行
 - DOMAIN-SUFFIX,icbc.com.cn
 
@@ -169,6 +167,9 @@ payload:
 - DOMAIN-SUFFIX,xiaomi.com
 - DOMAIN-SUFFIX,miui.com
 - DOMAIN-SUFFIX,mi.com
+
+# 盗版视频网站
+- DOMAIN-SUFFIX,vip.ffzy-online2.com
 
 #--------------------------------------------
 
