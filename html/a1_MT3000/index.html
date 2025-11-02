@@ -15,7 +15,15 @@
             /etc/init.d/gl_fan restart</br></br>
 
         3、安装istore</br>
-            官网：https://istore.linkease.com/repo/all/store/</br>
+            官网：https://istore.linkease.com/repo/all/store/</br></br>
+            建议使用下方命令</br>
+            wget -O "/tmp/taskd.ipk" "https://istore.linkease.com/repo/all/store/taskd_1.0.3-2_all.ipk"</br>
+            wget -O "/tmp/luci-lib-taskd.ipk" "https://istore.linkease.com/repo/all/store/luci-lib-taskd_1.0.24_all.ipk"</br>
+            wget -O "/tmp/luci-lib-xterm.ipk" "https://istore.linkease.com/repo/all/store/luci-lib-xterm_4.18.0_all.ipk"</br>
+            wget -O "/tmp/luci-app-store.ipk" "https://istore.linkease.com/repo/all/store/luci-app-store_0.1.29-6_all.ipk"</br>
+            cd /tmp/</br>
+            opkg install taskd.ipk luci-lib-taskd.ipk luci-lib-xterm.ipk luci-app-store.ipk</br></br>
+            不建议用这个</br>
             wget -O "/tmp/taskd.ipk" "https://github.yuxianzi666.xyz/html/a1_MT3000/istore/taskd_1.0.3-2_all.ipk"</br>
             wget -O "/tmp/luci-lib-taskd.ipk" "https://github.yuxianzi666.xyz/html/a1_MT3000/istore/luci-lib-taskd_1.0.23_all.ipk"</br>
             wget -O "/tmp/luci-lib-xterm.ipk" "https://github.yuxianzi666.xyz/html/a1_MT3000/istore/luci-lib-xterm_4.18.0_all.ipk"</br>
