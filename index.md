@@ -56,16 +56,6 @@ Suites: noble noble-updates noble-security
 Components: main restricted universe multiverse
 Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg
 
-## wsl ubuntu 24 安装远程桌面
-sudo apt install xfce4 xfce4-goodies
-sudo apt install xrdp
-echo "xfce4-session" > ~/.xsession
-sudo echo "xfce4-session" > /home/<user>/.xsession
-（更改端口号，可选）sudo vim /etc/xrdp/xrdp.ini
-sudo systemctl restart xrdp
-sudo systemctl start xrdp
-sudo systemctl enable xrdp
-
 ### docker 命令
 
 docker run -d --restart unless-stopped -p <访问端口>:<docker内部端口> -v <外部路径>:<docker内部路径> --name <自定义名称> <docer 仓库全名>
