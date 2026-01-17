@@ -81,3 +81,10 @@ docker run -d --restart unless-stopped -p <访问端口>:<docker内部端口> -v
 仅清理已过期或不再维护的软件包：sudo apt autoclean
 清理旧内核：sudo apt autoremove --purge
 
+### winget更换源
+
+查看当前winget源：winget source list
+删除原winget源：winget source remove winget
+修改为中科大的源：winget source add winget https://mirrors.ustc.edu.cn/winget-source
+如果要恢复使用 Microsoft 官方源，可以使用以下命令进行重置：winget source reset winget
+
