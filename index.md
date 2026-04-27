@@ -62,7 +62,7 @@ docker run -d --restart unless-stopped -p <访问端口>:<docker内部端口> -v
 
 ### ffmpeg 命令
 
-转换视频：ffmpeg -hwaccel cuda -i <输入文件> -c:v h264_nvenc <输出文件>
+转换视频：ffmpeg -hwaccel cuda -i <输入文件> -c:a copy -c:v h264_nvenc <输出文件>
 剪切视频：ffmpeg -hwaccel cuda -i <输入文件> -ss [起始时间00:00:00] -to [结束时间00:00:00] -c:v h264_nvenc <输出文件>
 裁剪视频尺寸：ffmpeg -hwaccel cuda -i <输入文件> -vf crop=<宽度>:<高度>:<起始坐标X>:<起始坐标Y> -c:v h264_nvenc <输出文件>
 
