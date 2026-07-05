@@ -19,11 +19,6 @@ git add .
 git commit -m "first commit"
 git push /*-u origin main*/
 
-### 梯子订阅链接
-
-https://xn--cp3a08l.com/api/v1/client/subscribe?token=abeef6dc35cdc924d7e0ec1c2506c39f
-https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=43a859a1f643ee3b5c03cbd2cdeed3a0
-
 ### openwrt openclash 自定义规则
 
 https://github.yuxianzi666.xyz/clashrule/clash\_reject.yaml
