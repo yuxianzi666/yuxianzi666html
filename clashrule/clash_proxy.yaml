@@ -1,0 +1,24 @@
+#!!!!! select classical and yaml !!!!!
+
+#DOMAIN : match complete
+
+#DOMAIN-SUFFIX : match the last
+
+#DOMAIN-KEYWORD : match the keyword
+
+payload:
+#--------------------------------------------
+#临时
+
+# 推特
+- DOMAIN-SUFFIX,x.com
+- DOMAIN-SUFFIX,twitter.com
+
+# github
+- DOMAIN-SUFFIX,github.com
+
+# 禁漫天堂
+- DOMAIN-SUFFIX,18comic.vip
+
+#--------------------------------------------
+

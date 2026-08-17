@@ -1,0 +1,17 @@
+#!!!!! select classical and yaml !!!!!
+
+#DOMAIN : match complete
+
+#DOMAIN-SUFFIX : match the last
+
+#DOMAIN-KEYWORD : match the keyword
+
+payload:
+
+#--------------------------------------------
+#临时
+
+#腾讯灯塔(在疯狂请求，直接屏蔽)
+- DOMAIN-SUFFIX,aeventlog.beacon.qq.com
+
+#--------------------------------------------
